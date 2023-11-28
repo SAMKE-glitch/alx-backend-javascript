@@ -154,7 +154,7 @@ Click here to show/hide file contents(module.exports = {
 };)
 Finally…
 Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
-------------
+-----------------
 0. Modify
 
 function taskFirst to instantiate variables using const
