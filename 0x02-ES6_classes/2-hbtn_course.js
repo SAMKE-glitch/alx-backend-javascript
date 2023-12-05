@@ -7,7 +7,7 @@ export default class HolbertonCourse {
     this._name = name;
     this._length = length;
   }
-  
+
   get name() {
     return this._name;
   }
